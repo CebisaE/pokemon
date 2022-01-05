@@ -1,3 +1,4 @@
+@import url('http://fonts.cdnfonts.com/css/pokemon-solid');
 .content {
     background-color:rgba(255,255,255,.8);
     border-radius:.25em;
@@ -56,4 +57,12 @@ body{
 }
 .ability{
     list-style-type: none;
+}
+.title{
+    font-family: 'Pokemon Solid', sans-serif;
+    color:yellow;
+    font-size: 50px;
+    -webkit-text-stroke:5px blue;
+    letter-spacing: 5px;
+
 }
